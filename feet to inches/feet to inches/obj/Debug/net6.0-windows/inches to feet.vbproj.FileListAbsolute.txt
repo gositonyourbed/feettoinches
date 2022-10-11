@@ -1,0 +1,17 @@
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\bin\Debug\net6.0-windows\inches to feet.exe
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\bin\Debug\net6.0-windows\inches to feet.deps.json
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\bin\Debug\net6.0-windows\inches to feet.runtimeconfig.json
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\bin\Debug\net6.0-windows\inches to feet.dll
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\bin\Debug\net6.0-windows\inches to feet.pdb
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\obj\Debug\net6.0-windows\inches to feet.vbproj.AssemblyReference.cache
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\obj\Debug\net6.0-windows\feet_to_inches.Form1.resources
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\obj\Debug\net6.0-windows\inches to feet.vbproj.GenerateResource.cache
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\obj\Debug\net6.0-windows\inches to feet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\obj\Debug\net6.0-windows\inches to feet.AssemblyInfoInputs.cache
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\obj\Debug\net6.0-windows\inches to feet.AssemblyInfo.vb
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\obj\Debug\net6.0-windows\inches to feet.vbproj.CoreCompileInputs.cache
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\obj\Debug\net6.0-windows\inches to feet.dll
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\obj\Debug\net6.0-windows\refint\inches to feet.dll
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\obj\Debug\net6.0-windows\inches to feet.pdb
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\obj\Debug\net6.0-windows\inches to feet.genruntimeconfig.cache
+C:\Users\chris\Source\Repos\feet to inches\feet to inches\obj\Debug\net6.0-windows\ref\inches to feet.dll
